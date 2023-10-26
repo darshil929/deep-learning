@@ -1,0 +1,5 @@
+link to dataset = http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Cell_Phones_and_Accessories_5.json.gz
+
+You can read about gensim more at https://radimrehurek.com/gensim/models/word2vec.html
+
+Explore other Datasets related to Amazon Reviews: http://jmcauley.ucsd.edu/data/amazon/
